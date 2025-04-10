@@ -1,0 +1,33 @@
+[
+
+        {
+        "id": 10,
+        "name": "Extract",
+        "version": "v1.5.0"
+    },
+    {
+        "id": 20,
+        "name": "Transform",
+        "version": "v1.5.0"
+    },
+    {
+        "id": 30,
+        "name": "Sales",
+        "version": "v1.4.0"
+    },
+    {
+        "id": 40,
+        "name": "Inventory analysis",
+        "version": "v2.0.0"
+    },
+    {
+        "id": 50,
+        "name": "Spend",
+        "version": "v1.2.0"
+    },
+    {
+        "id": 60,
+        "name": "Customer",
+        "version": "v2.0.0"
+    }
+]
